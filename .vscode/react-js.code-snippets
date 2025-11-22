@@ -86,4 +86,12 @@
     ],
     "description": "React Server (Component) Page",
   },
+  "console.log shortcut": {
+    "scope": "javascript,javascriptreact,typescript,typescriptreact,jsx,tsx",
+    "prefix": "cl",
+    "body": [
+      "console.log('${1:message}')",
+    ],
+    "description": "console.log shortcut",
+  },
 }
