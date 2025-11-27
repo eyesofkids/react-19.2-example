@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///Volumes/Serie/Github/react-19.2-example/app/activity/chat/page.css"],"sourcesContent":["#root {\n  display: flex;\n  gap: 10px;\n  height: 100%;\n}\nnav {\n  padding: 10px;\n  background: #eee;\n  font-size: 14px;\n  height: 100%;\n  overflow: auto;\n  position: fixed;\n  top: 0;\n  left: 0;\n  bottom: 0;\n  width: 250px;\n  z-index: 1000;\n}\nmain {\n  padding: 10px;\n  margin-left: 280px;\n}\np {\n  margin: 0;\n}\nh1 {\n  margin-top: 10px;\n}\n.indicator {\n  margin-left: 4px;\n  display: inline-block;\n  rotate: 90deg;\n}\n.indicator.down {\n  rotate: 180deg;\n}\n"],"names":[],"mappings":"AAAA;;;;;;AAKA;;;;;;;;;;;;;;AAaA;;;;;AAIA;;;;AAGA;;;;AAGA;;;;;;AAKA"}}]
+}

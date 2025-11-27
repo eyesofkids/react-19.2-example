@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///Volumes/Serie/Github/react-19.2-example/app/activity/sidebar-prerender/loading.js"],"sourcesContent":["export default function Loading() {\n  return (\n    <>\n      <h3>🌀 載入中...</h3>\n    </>\n  )\n}\n"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBACE;kBACE,cAAA,8OAAC;sBAAG;;;;;;;AAGV"}}]
+}
