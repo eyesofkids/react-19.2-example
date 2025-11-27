@@ -1,9 +1,0 @@
-{
-  "[project]/app/activity/basic/clock/_components/clock.jsx [app-client] (ecmascript, next/dynamic entry)": {
-    "id": "[project]/app/activity/basic/clock/_components/clock.jsx [app-client] (ecmascript, next/dynamic entry)",
-    "files": [
-      "static/chunks/app_activity_basic_clock__components_clock_jsx_298bb460._.js",
-      "static/chunks/app_activity_basic_clock__components_clock_jsx_dc7312a4._.js"
-    ]
-  }
-}
